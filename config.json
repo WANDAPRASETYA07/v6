@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["628975217200@s.whatsapp.net","628975217200@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Wan-Daོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/wnd.prfct",
+    "botName": "𝚂𝙰𝙽𝚂 𝙱𝙾𝚃ོ ",
+    "footer": "𝙸𝙼 𝚂𝙰𝙽𝚂 𝙱𝙾𝚃 𝙱𝚈𝙴 𝚆𝙰𝙽𝙳𝙰 𝙿𝚁𝙰𝚂𝙴𝚃𝚈𝙰",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
